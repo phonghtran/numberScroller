@@ -1,0 +1,941 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"start",
+				"startOffset"
+			],
+			[
+				"wind",
+				"windowHeight"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"cardlis",
+				"cardListContainer"
+			],
+			[
+				"list",
+				"cardListContainer"
+			],
+			[
+				"o",
+				"offset"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ma",
+				"maxPos"
+			],
+			[
+				"thi",
+				"thisTop"
+			],
+			[
+				"mou",
+				"mouseScrollListContainerPos"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"card",
+				"cardGuts"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"sty",
+				"styleArray"
+			],
+			[
+				"rou",
+				"routeCurrentPosition"
+			],
+			[
+				"off",
+				"offsetScrollTrigger"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"new",
+				"newSrc"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ch",
+				"chapterNav"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"main",
+				"mainContent"
+			],
+			[
+				"show",
+				"showMenu"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ps",
+				"position"
+			],
+			[
+				"con",
+				"console	consoleLog"
+			],
+			[
+				"ca",
+				"cardCount"
+			],
+			[
+				"car",
+				"cardOffset"
+			],
+			[
+				"loa",
+				"loadThisCard"
+			],
+			[
+				"lo",
+				"loadThisCard"
+			],
+			[
+				"prev",
+				"prevCard"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"arr",
+				"arrayItem"
+			],
+			[
+				"rese",
+				"resizeCards"
+			],
+			[
+				"win",
+				"windowHeight"
+			],
+			[
+				"in",
+				"infiniteLoadCheck"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"bu",
+				"bufferHeaderSpace"
+			],
+			[
+				"ba",
+				"backCardHeight"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"nore",
+				"no-repeat"
+			],
+			[
+				"tou",
+				"noTouchInterface"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"pt",
+				"padding-top"
+			],
+			[
+				"co",
+				"console	consoleLog"
+			],
+			[
+				"body",
+				"bodyHeight"
+			],
+			[
+				"scro",
+				"scrollVPos"
+			],
+			[
+				"bod",
+				"bodyHeight"
+			],
+			[
+				"no",
+				"noTouchState"
+			],
+			[
+				"var",
+				"varthis	this"
+			],
+			[
+				"copy",
+				"copyContainer"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"hs",
+				"hasClass"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"this",
+				"thisHeight"
+			],
+			[
+				"tab",
+				"tabOffset"
+			],
+			[
+				"content",
+				"ContentFrame"
+			],
+			[
+				"slider",
+				"sliderContainer"
+			],
+			[
+				"for",
+				"formatLink"
+			],
+			[
+				"k",
+				"keyCode"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"ver",
+				"vertLayout"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"mr",
+				"margin-right"
+			],
+			[
+				"detail",
+				"detailView"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"owl",
+				"owlWhite"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"hi",
+				"hideSet"
+			],
+			[
+				"fa",
+				"fadeOutTimeoutArray"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1957,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 229.0,
+		"selected_items":
+		[
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"syjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synjqu",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"ftp",
+				"SFTP: Edit Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Show Panel"
+			],
+			[
+				"stp",
+				"SFTP: Show Panel"
+			],
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"op",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"synja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/phongtran/Documents/html/mplsisawesome_04/sftp-config.json",
+		"/Users/phongtran/Documents/html/googleMapsRouteRenderer/css/main.css",
+		"/Users/phongtran/Documents/html/mplsisawesome_03/sftp-config.json",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/getCards.php",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/getCardsJSON.php",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/js/cardsContent.js",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/js/backgroundAjax.js",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/index.php",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/indexDBCall.php",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/index_allCardsPreloaded.php",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/staticFirstTenCards.html",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/js/plugins.js",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/css/main.css",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/mplsisawesome.sublime-workspace",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/indexNoDBCall.php",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/img/rotatePhone.gif",
+		"/Users/phongtran/Library/Application Support/Sublime Text 2/Packages/User/this.sublime-snippet",
+		"/etc/paths",
+		"/Users/phongtran/Documents/html/mplsisawesome_02_subtle/index.html",
+		"/Users/phongtran/Documents/html/livestrong/team.php",
+		"/Users/phongtran/Documents/html/livestrong/gettingto.php",
+		"/Users/phongtran/Documents/html/livestrong/nav.php",
+		"/Users/phongtran/Documents/html/livestrong/us.php",
+		"/Users/phongtran/Documents/html/livestrong/cases.php",
+		"/Users/phongtran/Documents/html/livestrong/ourthinking.php",
+		"/Users/phongtran/Documents/html/livestrong/workingtogether.php",
+		"/Users/phongtran/Documents/html/livestrong/100dayplan.php",
+		"/Users/phongtran/Documents/html/livestrong/js/min.jquery.js",
+		"/Users/phongtran/Documents/html/livestrong/js/slider.js",
+		"/Users/phongtran/Documents/html/livestrong/css/style.css",
+		"/Users/phongtran/Documents/html/livestrong/footer.php",
+		"/Users/phongtran/Documents/html/livestrong/index.php",
+		"/Users/phongtran/Documents/html/livestrong/work/amc/index.php",
+		"/Users/phongtran/Documents/html/livestrong/work/apple/index.php",
+		"/Users/phongtran/Documents/html/livestrong/work/apple/old_index.php",
+		"/Users/phongtran/Documents/html/livestrong/work/blu-dot-real-good-experiment/index.php",
+		"/Users/phongtran/Documents/html/livestrong/work/blue-cross-blue-shield-mn/index.php",
+		"/Users/phongtran/Documents/html/livestrong/work/lean-forward/index.php",
+		"/Users/phongtran/Documents/html/livestrong/work/nba-tv/index.php",
+		"/Users/phongtran/Documents/html/livestrong/work/swap-meet/index.php",
+		"/Users/phongtran/Documents/html/livestrong/work/target/index.php",
+		"/Users/phongtran/Documents/html/livestrong/work/usa-network/index.php",
+		"/Users/phongtran/Documents/html/livestrong/work/virgin/index.php",
+		"/Users/phongtran/Documents/html/livestrong/images/100days/mono_map_updated.jpg",
+		"/Users/phongtran/Documents/html/livestrong/clients.php",
+		"/Users/phongtran/Documents/html/livestrong/sftp-config.json",
+		"/Users/phongtran/Documents/html/livestrong/work.php",
+		"/Users/phongtran/Library/Application Support/Sublime Text 2/Packages/User/sftp_servers/mono-pitch folder",
+		"/Users/phongtran/Library/Application Support/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/phongtran/Library/Caches/Cleanup At Startup/Transmit/FBCBDE41-A89E-4FCA-850A-C6B350EE9E74/philosophy.php",
+		"/Users/phongtran/Documents/html/mplsisawesome/tabletslidemetaphorTop.html",
+		"/Users/phongtran/Documents/html/mplsisawesome/css/mainTabletMetaphorTop.css",
+		"/Users/phongtran/Documents/html/mplsisawesome/js/mainTabletMetaphorTop.js",
+		"/Users/phongtran/Documents/html/mplsisawesome/tabletslidemetaphor.html",
+		"/Users/phongtran/Documents/html/mplsisawesome/js/mainTabletMetaphor.js",
+		"/Users/phongtran/Documents/html/mplsisawesome/css/mainTabletMetaphor.css",
+		"/Users/phongtran/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/phongtran/Documents/html/mplsisawesome/js/mainAnimationDemo.js",
+		"/Users/phongtran/Documents/html/mplsisawesome/css/main.css",
+		"/Users/phongtran/Documents/html/mplsisawesome/js/isotope.js",
+		"/Users/phongtran/Documents/html/mplsisawesome/animationDemo.html",
+		"/Users/phongtran/Documents/html/mplsisawesome/css/mainAnimationDemo.css",
+		"/Users/phongtran/Documents/html/mplsisawesome/index2.html",
+		"/Users/phongtran/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/phongtran/Documents/html/mplsisawesome/js/main.js",
+		"/Users/phongtran/Documents/html/contacts/index.php",
+		"/Users/phongtran/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/phongtran/Documents/html/mplsisawesome/js/vendor/jquery-1.9.1.min.js",
+		"/Users/phongtran/Documents/html/mplsisawesome/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js",
+		"/Users/phongtran/Documents/html/mplsisawesome/index.html",
+		"/Users/phongtran/Documents/html/mplsisawesome/css/monotunes.css",
+		"/Users/phongtran/Documents/html/mplsisawesome/css/normalize.css",
+		"/Users/phongtran/Documents/html/mplsisawesome/fonts/monofont-webfont.svg",
+		"/Users/phongtran/Library/Application Support/Sublime Text 2/Packages/DocBlockr/README.md",
+		"/Users/phongtran/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/phongtran/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/test/style.css",
+		"/Users/phongtran/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"<open files>",
+			"",
+			"<open files>",
+			"",
+			"tabletslidemetaphorTop.html",
+			"	",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bottom",
+			"all",
+			"[x]",
+			"x",
+			"max-",
+			"count",
+			"flightPlanCoordinates",
+			"routeCurrentPosition",
+			"x",
+			"initialize",
+			"80px",
+			"800px",
+			"margin: 0 4em 1em ;\n\n800px",
+			"margin: 0 4em 1em ;\n\n800px;",
+			".5",
+			"0, 0, 0",
+			"currentMarker",
+			"console",
+			"hi",
+			"(3)",
+			"350ms",
+			"background-color",
+			"#mainContent #chapterNav",
+			"1024px;",
+			"2em",
+			"width",
+			"120px",
+			"150ms",
+			"left",
+			"linear",
+			"60px",
+			"peek",
+			"hide",
+			"#mainContent",
+			"all",
+			"../..",
+			"(noTouchInterface === true)",
+			"$cardContainer",
+			"$('.cardContainer')",
+			"console",
+			"cards.data.length",
+			"infiniteLoadCheck",
+			"$nextCard",
+			"nextCard",
+			"prevCard",
+			"loadNext",
+			"left",
+			"resizeCards()",
+			"swip",
+			"scrollleft",
+			".data[x]",
+			"noTouchInterface",
+			"disableAjaxLoad",
+			"scroll",
+			"history",
+			"$window.width()",
+			" style=\"width: 161px; height: 161px; font-size: 14.1px;\"",
+			" style=\"width: 460px;\"",
+			" style=\"width: 462.85714285714283px;\"",
+			" style=\"max-height: 518px;\"",
+			"mono | livestrong",
+			" style=\"max-height: 518px;\"",
+			"all",
+			"$window",
+			"$(window)",
+			"circleWidth",
+			"click",
+			"$(window)",
+			"isNoTouchInterface",
+			"noTouchState",
+			"windowWidth",
+			"flip",
+			"overflow",
+			"over",
+			"Livestrong",
+			"let's put",
+			"today",
+			"slide caption here",
+			"mono | youtube",
+			"LiveStrong",
+			"<p class=\"next_page\"><a href=\"../../cases.php\" >&larr; back to cases</a></p>",
+			"<p class=\"next_page\"><a href=\"../../work.php\" >&larr; back to work</a></p>",
+			"then",
+			"\n					<li><img src=\"",
+			"						<li><a <?php if ($url == $page5) {echo 'class=\"active\"';} ?> href=\"<?=$page5?>\">100 day plan</a></li>\n",
+			"              <input type=\"text\" placeholder=\"name\">\n          </form><!-- form -->\n",
+			"\">\n",
+			"<div class=\"back face\">",
+			"</div><!-- copy -->",
+			"<h2>art cars</h2>",
+			"<div class=\"copy\">",
+			"<a href=\"#\" class=\"toggleMap\">Show Map</a>",
+			"<div class=\"front face \">",
+			"</div><!-- front of card -->",
+			"content",
+			";",
+			"class=\"card ",
+			"class=\"card",
+			"owlWhite",
+			"width",
+			"showFilterMenu",
+			">",
+			"144px",
+			"$('body')",
+			"	background-image: url('../img/icons/owlWhite.png')\n",
+			"background",
+			"300ms",
+			"width",
+			"</li>",
+			"width",
+			"all",
+			"300ms",
+			"\n",
+			"90deg",
+			"180deg",
+			"rotateY",
+			"rotateX",
+			"face",
+			"education",
+			"0.8s",
+			"0",
+			"1800ms",
+			"selected",
+			"animation-play-state",
+			"music",
+			"face",
+			"iconOwl",
+			"rotateY"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"mono | livestrong",
+			"<p class=\"next_page\"><a href=\"../../cases.php\" >&larr; back to cases</a></p>",
+			"<div class=\"face\">",
+			"",
+			";\\n",
+			"class=\"card active ",
+			"class=\"card active",
+			"arts",
+			"",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"our",
+				"ourthinking.php"
+			],
+			[
+				"work",
+				"workingtogether.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"nav",
+				"nav.php"
+			],
+			[
+				"",
+				"gettingto.php"
+			],
+			[
+				"g",
+				"gettingto.php"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"get",
+				"gettingto.php"
+			],
+			[
+				"case",
+				"cases.php"
+			],
+			[
+				"i",
+				"index.php"
+			],
+			[
+				"wo",
+				"workingtogether.php"
+			],
+			[
+				"st",
+				"css/style.css"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"wor",
+				"workingtogether.php"
+			],
+			[
+				"workin",
+				"workingtogether.php"
+			],
+			[
+				"worki",
+				"workingtogether.php"
+			],
+			[
+				"w",
+				"workingtogether.php"
+			],
+			[
+				"css",
+				"css/style.css"
+			],
+			[
+				"100",
+				"100dayplan.php"
+			],
+			[
+				"footer",
+				"footer.php"
+			],
+			[
+				"us",
+				"us.php"
+			],
+			[
+				"team",
+				"/Users/phongtran/Library/Caches/Cleanup At Startup/Transmit/3E6911CD-0FCD-47FB-BF0C-0AA214CC23B0/team.php"
+			],
+			[
+				"working",
+				"/Users/phongtran/Library/Caches/Cleanup At Startup/Transmit/09A14E84-9A42-4A53-857B-3BEE9ACB94CC/workingtogether.php"
+			],
+			[
+				"top",
+				"css/mainTabletMetaphorTop.css"
+			],
+			[
+				"main.css",
+				"css/main.css"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"main.js",
+				"js/main.js"
+			],
+			[
+				"index",
+				"index2.html"
+			],
+			[
+				".js",
+				"js/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true
+}
